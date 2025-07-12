@@ -1,1 +1,44 @@
-# Generador_QR
+# 🚀 Generador de Código QR en Python (Solo 10 líneas!)
+
+[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Licencia](https://img.shields.io/badge/Licencia-MIT-green)](https://opensource.org/licenses/MIT)
+[![QR_Code](https://img.shields.io/badge/QR_Code-Generator-yellowgreen)](https://github.com/BenaviDev/Generador-QR)
+
+Un script minimalista en Python que genera códigos QR como imágenes PNG en segundos. ¡Perfecto para desarrolladores, educadores y entusiastas de la tecnología!
+
+---
+
+## ✨ Características Destacadas
+
+- ⚡ **Generación instantánea** de códigos QR
+- 🪶 **Solo 10 líneas** de código esencial
+- 🎨 **Personalización flexible** de URL y nombre de salida
+- 📁 **Salida en formato PNG** listo para usar
+- 💻 **Multiplataforma** (Windows, Linux, macOS)
+
+---
+
+## 🖼️ Demo Visual
+
+| Vista previa del script | Código QR generado |
+|-------------------------|--------------------|
+| ![Terminal](https://raw.githubusercontent.com/BenaviDev/Generador-QR/main/img/terminal.png) | ![QR](https://raw.githubusercontent.com/BenaviDev/Generador-QR/main/img/qr_example.png) |
+
+---
+
+## ⚙️ Instalación y Uso
+
+### Prerrequisitos
+- Python 3.10 o superior
+- Gestor de paquetes `pip`
+
+### Pasos rápidos
+```bash
+# 1. Instalar dependencia
+pip install qrcode[pil]
+
+# 2. Descargar script
+wget https://raw.githubusercontent.com/BenaviDev/Generador-QR/main/Generador_QR.py
+
+# 3. Ejecutar
+python Generador_QR.py
