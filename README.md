@@ -32,11 +32,28 @@ Pillow - Procesamiento de imágenes
 
 ## 🖼️ Demo Visual
 
-| Vista previa del script | Código QR generado |
-|-------------------------|--------------------|
+| Códigos QR generados |
+|-------------------------|
 | ![Terminal](https://github.com/BenaviDev/Generador_QR/blob/main/github_qr_pro.png)
 
 ---
+
+## 🛠 Visual del codigo
+
+```bash
+#!/usr/bin/env python3
+import qrcode
+#Configuracion /editar/
+url= "https://ejemplo.com" #url
+salida= "imagen.png" # imagen de salida
+#Generar QR funcion
+qr =qrcode.make(url)
+qr.save(salida)
+print(f" QR GENERADO !: {salida}") 
+print(f" REDIRIGE A: {url}") 
+```
+---
+
 
 ## ⚙️ Instalación y Uso
 
