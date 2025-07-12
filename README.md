@@ -18,6 +18,18 @@ Un script minimalista en Python que genera códigos QR como imágenes PNG en seg
 
 ---
 
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+Python - Lenguaje base
+
+qrcode - Librería de generación QR
+
+Pillow - Procesamiento de imágenes
+
+---
+
 ## 🖼️ Demo Visual
 
 | Vista previa del script | Código QR generado |
