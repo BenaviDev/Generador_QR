@@ -43,14 +43,19 @@ Tambien es posible cambiar el tamaño de los codigos QR
 ```bash
 #!/usr/bin/env python3
 import qrcode
-#Configuracion /editar/
-url= "https://ejemplo.com" #url
-salida= "imagen.png" # imagen de salida
-#Generar QR funcion
-qr =qrcode.make(url)
-qr.save(salida)
-print(f" QR GENERADO !: {salida}") 
-print(f" REDIRIGE A: {url}") 
+
+# Configuración EDITA TUS CODIGOS
+qr = qrcode.QRCode(
+    version=1,
+    error_correction=qrcode.constants.ERROR_CORRECT_H,
+    box_size=4,  # TAMAÑ0 DEL CODIGO
+    border=2, # BORDE EXTERIOR
+)
+qr.add_data("https://www.tiktok.com/@santiangobrz.5")
+qr.make(fit=True)
+
+img = qr.make_image(fill_color="#f5b041", back_color="#f0f0f0")  # Colores del QR 
+img.save("img.png") #NOMBRE DEL FORMATO PNG QUE SE VA A GENERAR
 ```
 ---
 
