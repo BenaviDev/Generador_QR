@@ -60,7 +60,7 @@ python Generador_QR.py
 
 ###  📬 Contacto
 Santiago Benavidez Ramirez
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sbenavidezr29@gmail.com) 
 https://img.shields.io/badge/YouTube-%2523FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white
 https://img.shields.io/badge/TikTok-%2523000000.svg?style=for-the-badge&logo=TikTok&logoColor=white
 
