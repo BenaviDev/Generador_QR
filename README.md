@@ -34,7 +34,7 @@ Pillow - Procesamiento de imágenes
 
 | Vista previa del script | Código QR generado |
 |-------------------------|--------------------|
-| ![Terminal](https://raw.githubusercontent.com/BenaviDev/Generador-QR/main/img/terminal.png) | ![QR](https://raw.githubusercontent.com/BenaviDev/Generador-QR/main/img/qr_example.png) |
+| ![Terminal](https://github.com/BenaviDev/Generador_QR/blob/main/github_qr_pro.png)
 
 ---
 
