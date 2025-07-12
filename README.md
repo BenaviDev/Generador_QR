@@ -31,14 +31,10 @@ Pillow - Procesamiento de imágenes
 ---
 
 ## 🖼️ Demo Visual
-
-| Códigos QR generados |
-|-------------------------|
-| ![Terminal](https://github.com/BenaviDev/Generador_QR/blob/main/github_qr_pro.png)
-| ![Terminal](https://github.com/BenaviDev/Generador_QR/blob/main/Tiktok.png)
-| ![Terminal](https://github.com/BenaviDev/Generador_QR/blob/main/Tikto2.png)
-
----
+| GitHub QR | TikTok QR | YouTube QR |
+|-----------|-----------|------------|
+| <img src="https://raw.githubusercontent.com/BenaviDev/Generador_QR/main/github_qr_pro.png" width="150"> | <img src="https://raw.githubusercontent.com/BenaviDev/Generador_QR/main/Tiktok.png" width="150"> | <img src="https://raw.githubusercontent.com/BenaviDev/Generador_QR/main/Tikto2.png" width="150"> |
+```
 
 ## 🛠 Visual del codigo
 
