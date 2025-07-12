@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-green)](https://opensource.org/licenses/MIT)
-[![QR_Code](https://img.shields.io/badge/QR_Code-Generator-yellowgreen)](https://github.com/BenaviDev/Generador-QR)
 
 Un script minimalista en Python que genera códigos QR como imágenes PNG en segundos. ¡Perfecto para desarrolladores, educadores y entusiastas de la tecnología!
 
