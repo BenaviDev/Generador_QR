@@ -35,6 +35,7 @@ Pillow - Procesamiento de imágenes
 | Códigos QR generados |
 |-------------------------|
 | ![Terminal](https://github.com/BenaviDev/Generador_QR/blob/main/github_qr_pro.png)
+| ![Terminal](https://github.com/BenaviDev/Generador_QR/blob/main/Tiktok.png)
 
 ---
 
