@@ -70,8 +70,7 @@ img.save("img.png") #NOMBRE DEL FORMATO PNG QUE SE VA A GENERAR
 # 1. Instalar dependencia
 pip install qrcode[pil]
 
-# 2. Descargar script
-wget https://raw.githubusercontent.com/BenaviDev/Generador-QR/main/Generador_QR.py
+# 2. Copiar y pegar el script
 
 # 3. Ejecutar
 python Generador_QR.py
