@@ -4,8 +4,14 @@
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-green)](https://opensource.org/licenses/MIT)
 
 Un script minimalista en Python que genera códigos QR como imágenes PNG en segundos. ¡Perfecto para desarrolladores, educadores y entusiastas de la tecnología!
-
 ---
+
+## 📸 Captura del Código
+
+Para que los usuarios vean rápidamente cómo luce el script:
+
+![Ejemplo de uso del Generador QR](https://github.com/BenaviDev/Generador_QR/blob/main/elque%20es.png)
+
 
 ## ✨ Características Destacadas
 
