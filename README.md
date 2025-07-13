@@ -33,7 +33,7 @@ Pillow - Procesamiento de imágenes
 |-----------|-----------|------------|
 | <img src="https://raw.githubusercontent.com/BenaviDev/Generador_QR/main/github_qr_pro.png" width="150"> | <img src="https://raw.githubusercontent.com/BenaviDev/Generador_QR/main/Tiktok.png" width="150"> | <img src="https://raw.githubusercontent.com/BenaviDev/Generador_QR/main/Tikto2.png" width="150"> 
 
-| Estilo 3 |
+
 <img src="https://github.com/BenaviDev/Generador_QR/blob/main/elque%20es.png" width="500">
 
 Tambien es posible cambiar el tamaño de los codigos QR
