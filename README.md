@@ -33,6 +33,9 @@ Pillow - Procesamiento de imágenes
 |-----------|-----------|------------|
 | <img src="https://raw.githubusercontent.com/BenaviDev/Generador_QR/main/github_qr_pro.png" width="150"> | <img src="https://raw.githubusercontent.com/BenaviDev/Generador_QR/main/Tiktok.png" width="150"> | <img src="https://raw.githubusercontent.com/BenaviDev/Generador_QR/main/Tikto2.png" width="150"> |
 
+
+<img src="(https://github.com/BenaviDev/Generador_QR/blob/main/elque%20es.png)" width="300">
+
 Tambien es posible cambiar el tamaño de los codigos QR
 
 ## 🛠 Visual del codigo
@@ -56,8 +59,6 @@ img.save("img.png") #NOMBRE DEL FORMATO PNG QUE SE VA A GENERAR
 ```
 ---
 
-![Ejemplo de uso del Generador QR](https://github.com/BenaviDev/Generador_QR/blob/main/elque%20es.png)
-<img src="(https://github.com/BenaviDev/Generador_QR/blob/main/elque%20es.png)" width="300">
 
 ## ⚙️ Instalación y Uso
 
