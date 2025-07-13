@@ -6,13 +6,6 @@
 Un script minimalista en Python que genera códigos QR como imágenes PNG en segundos. ¡Perfecto para desarrolladores, educadores y entusiastas de la tecnología!
 ---
 
-## 📸 Captura del Código
-
-Para que los usuarios vean rápidamente cómo luce el script:
-
-![Ejemplo de uso del Generador QR](https://github.com/BenaviDev/Generador_QR/blob/main/elque%20es.png)
-
-
 ## ✨ Características Destacadas
 
 - ⚡ **Generación instantánea** de códigos QR
@@ -63,6 +56,8 @@ img.save("img.png") #NOMBRE DEL FORMATO PNG QUE SE VA A GENERAR
 ```
 ---
 
+![Ejemplo de uso del Generador QR](https://github.com/BenaviDev/Generador_QR/blob/main/elque%20es.png)
+<img src="(https://github.com/BenaviDev/Generador_QR/blob/main/elque%20es.png)" width="300">
 
 ## ⚙️ Instalación y Uso
 
