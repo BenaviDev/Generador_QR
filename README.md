@@ -29,7 +29,7 @@ Pillow - Procesamiento de imágenes
 ---
 
 ## 🖼️ Demo Visual
-| Estilo 1 | Estilo 2 | Estilo 3 |
+| Estilo 1 | Estilo 2 | Estilo 3 | Estilo 4 |
 |-----------|-----------|------------|
 | <img src="https://raw.githubusercontent.com/BenaviDev/Generador_QR/main/github_qr_pro.png" width="150"> | <img src="https://raw.githubusercontent.com/BenaviDev/Generador_QR/main/Tiktok.png" width="150"> | <img src="https://raw.githubusercontent.com/BenaviDev/Generador_QR/main/Tikto2.png" width="150"> | <img src="https://github.com/BenaviDev/Generador_QR/blob/main/elque%20es.png" width="300">
 
